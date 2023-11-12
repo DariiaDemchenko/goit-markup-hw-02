@@ -18,7 +18,7 @@ body {
 
 .logo {
    color:#4d5ae5;
-   font-family: Raleway;
+   font-family: "Raleway", sans-serif;
    font-size: 18px;
    font-weight: 700;
    line-height: 1.17; 
@@ -40,7 +40,7 @@ body {
 
 .menu-link:hover,
 .menu-link:focus {
-    color: #4D5AE5;
+    color: #404BBF;
 }
 
 .contact {
@@ -74,7 +74,6 @@ body {
 .button-main {
     border-radius: 4px;
     background: #4D5AE5;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     color: #FFF;
     font-size: 16px;
     font-weight: 500;
@@ -127,6 +126,9 @@ body {
     background-color: #F4F4FD;;
 }
 
+.backround-white {
+    background-color: #fff;
+}
 .cloud {
     color: #F4F4FD;
 }
