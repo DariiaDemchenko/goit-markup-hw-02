@@ -57,7 +57,7 @@ body {
 
 .contact-link:hover,
 .contact-link:focus {
-    color: #4D5AE5;
+    color: #404bbf;
 }
 
 /* Main content */
@@ -72,7 +72,6 @@ body {
 }
 
 .button-main {
-    border-radius: 4px;
     background: #4D5AE5;
     color: #FFF;
     font-size: 16px;
